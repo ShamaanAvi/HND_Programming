@@ -1,2 +1,3 @@
 # HND_Programming
 Sem1 HND Programming assignment(C#)
+Completed during the first semester of my Higher National Diploma (HND) program, this payroll system is a sophisticated Windows Forms Application developed using .NET C# and utilizes MS SQL Server for robust database management. Designed to streamline payroll processes, the system efficiently handles employee data, calculates salaries, manages deductions, and generates detailed payroll reports. Through this project, I demonstrated my expertise in software development, database management, and my ability to deliver practical solutions tailored to business needs
