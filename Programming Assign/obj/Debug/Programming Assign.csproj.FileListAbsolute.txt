@@ -1,0 +1,13 @@
+D:\vsProjects\Programming Assign\Programming Assign\bin\Debug\Programming Assign.exe.config
+D:\vsProjects\Programming Assign\Programming Assign\bin\Debug\Programming Assign.exe
+D:\vsProjects\Programming Assign\Programming Assign\bin\Debug\Programming Assign.pdb
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming Assign.csproj.AssemblyReference.cache
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming_Assign.fEmployee.resources
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming_Assign.fLogin.resources
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming_Assign.Properties.Resources.resources
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming Assign.csproj.GenerateResource.cache
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming Assign.csproj.CoreCompileInputs.cache
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming Assign.exe
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming Assign.pdb
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming_Assign.fSetting.resources
+D:\vsProjects\Programming Assign\Programming Assign\obj\Debug\Programming_Assign.fSalary.resources
